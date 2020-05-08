@@ -1,4 +1,16 @@
-# musicjukebox
+# Music Jukebox - Online Music Player
+The site was created at university and is a music player that plays music via localhost server.
 
-<p>This is the first website project I have worked on, with the task being to create a music jukebox that include songs from various artists with a working music player that plays songs to the user via an SQL database.</p>
-</p>
+## Table of Contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Status](#status)
+
+## General info
+
+## Technologies
+
+## Setup
+
+## Status
+

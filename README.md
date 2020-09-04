@@ -1,20 +1,65 @@
 # Music Jukebox - Online Music Player
-The site was created at university and is a music player that plays music via localhost server.
+This project is a site that was created at university and is a music player that plays music via localhost server.
+
+<br />
 
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
+* [Inspiration](#inspiration)
+
 
 ## General info
-A site that allows the user to choose an artist they want to listen to and then be taken to another page where the music player is located thus playing the said artist's music.
+### What is the project about and why was it made?
+
+
+### What did I learn making this project?
+ 
+
+<br />
 
 ## Technologies
-Project is created with: Bootstrap3, CSS3, HTML5 and Javascript.
+### What technologies are used in this project?
+Project created with:
+* HTML5
+* 
+* 
+* 
+* 
+
+### What skills have I showcased in this project?
+
+
+<br />
 
 ## Setup
-To run this project the user must use a localhost server.
+### Use of local server or libraries in project?
+
+
+### Instructions on how to access and open the doc for localhost?
+*	
+*	
+*	
+*	
+*
+
+### Instructions when on site
+*	
+*	
+
+
+<br />
 
 ## Status
-Project is now finished.
+### Is the project finished, does it need time to finish, what is the current progress?
+
+* 
+
+<br />
+
+## Inspiration
+### What inspired you to create a certain design or structure of the site?
+
+
